@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.env
+.env.*
+# OS/editor
+.DS_Store
+.idea/
+.vscode/
+# Logs & caches
+*.log
+.cache/
+# Docker
+*.pid
+# Migrations cache (optional tools)
+.pytest_cache/
